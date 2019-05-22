@@ -1,3 +1,8 @@
 English Word,Telugu meaning,English meaning,Computer science meaning
 Attribute,గుణం,a quality or feature regarded as a characteristic or inherent part of someone or something.,"an attribute is a specification that defines a property of an object, element, or file"
 Process,ప్రక్రియ,a series of actions or steps taken in order to achieve a particular end., a process is the instance of a computer program that is being executed by one or many threads. 
+memory leak,మెమరీ లీక్,a failure in a program to release discarded memory, causing impaired performance or failure., when a computer program incorrectly manages memory allocations in such a way that memory which is no longer needed is not released.
+instance,ఉదాహరణకు,an example or single occurrence of something., An object may be varied in a number of ways. Each realized variation of that object is an instance.
+structures,నిర్మాణాలు,the arrangement of and relations between the parts or elements of something complex., is a composite data type declaration that defines a physically grouped list of variables to be placed under one name in a block of memory, allowing the different variables to be accessed via a single pointer, or the struct declared name which returns the same address. 
+varibles,  అనిత్యమైన అస్థిరమైన,not consistent or having a fixed pattern; liable to change.,a variable is a value that can change depending on conditions or on information passed to the program.
+template,మూస ,A file that contains some pre-defined formatting, layout, and/or text and graphics and that serves as the basis for new documents with a similar look or purpose.,A template is a file that serves as a starting point for a new document. When you open a template, it is pre-formatted in some way. 
